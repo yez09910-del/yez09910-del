@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Evan Zhang
 
-<!--
-**yez09910-del/yez09910-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rice University '28 · Mathematics major · Houston, TX
 
-Here are some ideas to get you started:
+Quant Research Intern @ Asymptote Capital — building a 14-signal long-only equity portfolio (signal screening, correlation clustering, backtests with transaction costs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Stochastic processes & probability
+- Machine learning for finance
+- Portfolio construction & signal research
+
+## Currently
+- Prepping for quant interviews — Green Book, probability, mental math
+- Coursework: mathematical statistics, linear/integer programming, data wrangling with SQL
+
+## Projects
+- [revenue-management-toolkit](https://github.com/yez09910-del/revenue-management-toolkit)
+- [neural-pde-pricer](https://github.com/yez09910-del/neural-pde-pricer)
+- [cmor_420_520_submissions](https://github.com/yez09910-del/cmor_420_520_submissions)
